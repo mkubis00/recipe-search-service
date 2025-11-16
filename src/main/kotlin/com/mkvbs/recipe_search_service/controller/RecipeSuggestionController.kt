@@ -11,7 +11,7 @@ import java.util.UUID
 
 @Tag(
     name = "CRUD REST APIs for recipe suggestions",
-    description = "Rest Api to suggest recipes for users"
+    description = "Rest Api to suggest recipes for users."
 )
 @RestController
 @RequestMapping("/api/recipe-suggest/v1")
